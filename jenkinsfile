@@ -6,16 +6,9 @@ pipeline {
                 script{
                     checkout([$class: 'GitSCM', branches: [[name: '*/main']],
                         userRemoteConfigs: [[
-<<<<<<< HEAD
                             url: 'https://github.com/ArbiaHabbechi/myangular.git']]])
-=======
-                            url: 'https://github.com/ami123k/appcloud.git']]])
->>>>>>> e06a3855ab0beea5d3ecab486eccfa5ea8b16a27
                 }
             }
         }
 }}
-<<<<<<< HEAD
-=======
 
->>>>>>> e06a3855ab0beea5d3ecab486eccfa5ea8b16a27
