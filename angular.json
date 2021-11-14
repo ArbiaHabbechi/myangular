@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "myangular"
+    }
+  },
+  "defaultProject": "myangular",
+  "cli": {
+    "analytics": "f67d9b06-2803-45a8-8cd9-9452f49166fb"
+  }
 }
