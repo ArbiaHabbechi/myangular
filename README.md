@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e06a3855ab0beea5d3ecab486eccfa5ea8b16a27
 # Myangular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
@@ -25,3 +29,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<<<<<<< HEAD
+=======
+=======
+# myangular
+>>>>>>> c0a95868261eda9f6718c7c313d8ce784289f9f7
+>>>>>>> e06a3855ab0beea5d3ecab486eccfa5ea8b16a27
