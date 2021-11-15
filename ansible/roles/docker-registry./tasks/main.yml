@@ -1,0 +1,13 @@
+---
+# tasks file for docker-registry
+- name: Log into DockerHub
+  docker_login:
+    username: 1932072
+    password: 193JFT2072
+
+- name: Tag and push to docker hub
+  docker_image:
+    name: my-app:latest
+    repository: 1932072/myangular
+    tag: end
+    push: yes
