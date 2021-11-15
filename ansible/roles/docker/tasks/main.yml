@@ -4,7 +4,7 @@
   docker_image:
     name: my-angular
     build:
-     path: /var/lib/jenkins/workspace/myangular
+     path: /var/lib/jenkins/workspace/myangular@tmp
      pull: no
     source: build
     state: present
