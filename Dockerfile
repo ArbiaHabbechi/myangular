@@ -1,4 +1,4 @@
-FROM nginx:1.17.1-alpine
-COPY ./dist/my-angular /usr/share/nginx/html
+FROM nginx:1.14.0-alpine
+COPY ./dist/myangular /usr/share/nginx/html
 EXPOSE 4201
 CMD ["nginx" , "-g", "daemon off;"]
